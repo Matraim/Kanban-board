@@ -3,7 +3,7 @@
   <a href="https://github.com/Matraim" target="_blank">Matraim Nurmatov</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://planview-media.s3.us-west-2.amazonaws.com/wp-content/uploads/2018/07/OnlineKanbanBoard1-.jpg" />
+  <img alt="Demo" src="./src//assets/images//Снимок экрана 2023-12-07 в 20.58.29.png" />
 </div>
 
 <br/>
